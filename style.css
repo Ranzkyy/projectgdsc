@@ -371,7 +371,7 @@ textarea {
 }
 .button {
   width: 120px;
-  background-color: #2c2727e8;
+  background-color: #769fcd;
   color: #f7fbfc;
   border: none;
   outline: none;
@@ -382,8 +382,8 @@ textarea {
   cursor: pointer;
 }
 .button:hover {
-  background: #769fcd;
-  color: #fbfbfb;
+  background: #f7fbfc;
+  color: #769fcd;
   transition: 0.3s all linear;
 }
 .footer {
